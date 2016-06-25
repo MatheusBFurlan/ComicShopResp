@@ -1,0 +1,12 @@
+c:\users\matheus\documents\visual studio 2015\Projects\ComicShop\ComicShop\bin\Debug\ComicShop.exe.config
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.Properties.Resources.resources
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\bin\Debug\ComicShop.exe
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\bin\Debug\ComicShop.pdb
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.exe
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.pdb
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.frmCliente.resources
+C:\Users\Matheus\Desktop\ComicShopResp\ComicShop\ComicShop\bin\Debug\ComicShop.exe.config
+C:\Users\Matheus\Desktop\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.exe
+C:\Users\Matheus\Desktop\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.pdb
