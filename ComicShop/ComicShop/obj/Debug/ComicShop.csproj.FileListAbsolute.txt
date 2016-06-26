@@ -1,0 +1,36 @@
+c:\users\matheus\documents\visual studio 2015\Projects\ComicShop\ComicShop\bin\Debug\ComicShop.exe.config
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.Properties.Resources.resources
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.csproj.GenerateResource.Cache
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\bin\Debug\ComicShop.exe
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\bin\Debug\ComicShop.pdb
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.exe
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.pdb
+C:\Users\Matheus\Documents\Visual Studio 2015\Projects\ComicShop\ComicShop\obj\Debug\ComicShop.frmCliente.resources
+C:\Users\Matheus\Desktop\ComicShopResp\ComicShop\ComicShop\bin\Debug\ComicShop.exe.config
+C:\Users\Matheus\Desktop\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.exe
+C:\Users\Matheus\Desktop\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.pdb
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\bin\Debug\ComicShop.exe.config
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.exe
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.pdb
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\bin\Debug\ComicShop.exe
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\bin\Debug\ComicShop.pdb
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.frmCliente.resources
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.Camadas.Autor.resources
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.frmMenu.resources
+C:\Users\Jonathan\Documents\Linguagem de Programação\Visual Studio\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.frmHQ.resources
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\bin\Debug\ComicShop.exe.config
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.exe
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.pdb
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\bin\Debug\ComicShop.exe
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\bin\Debug\ComicShop.pdb
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.frmAutor.resources
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.frmCliente.resources
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.frmHQ.resources
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.frmMenu.resources
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.Properties.Resources.resources
+C:\Users\Matheus\Desktop\ComicShopResp-master\ComicShopResp\ComicShop\ComicShop\obj\Debug\ComicShop.csproj.GenerateResource.Cache
